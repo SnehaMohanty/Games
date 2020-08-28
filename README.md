@@ -10,4 +10,6 @@ A word guessing game . Run the Program.cs file and try out the instructions on c
 
 A Classic Rock-Paper-Scissors game. Run the Program.cs file and try out console instructions.
 
-3. The Classic Snake Game
+3. The Classic Snake Game:
+
+Run the Program.cs file , use the up, down and side arrows to navigate the snake 
