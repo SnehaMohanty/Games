@@ -1,0 +1,6 @@
+/home/user/Projects/rockpaperscissors/rockpaperscissors/bin/Debug/rockpaperscissors.exe
+/home/user/Projects/rockpaperscissors/rockpaperscissors/bin/Debug/rockpaperscissors.pdb
+/home/user/Projects/rockpaperscissors/rockpaperscissors/obj/x86/Debug/rockpaperscissors.csprojAssemblyReference.cache
+/home/user/Projects/rockpaperscissors/rockpaperscissors/obj/x86/Debug/rockpaperscissors.csproj.CoreCompileInputs.cache
+/home/user/Projects/rockpaperscissors/rockpaperscissors/obj/x86/Debug/rockpaperscissors.exe
+/home/user/Projects/rockpaperscissors/rockpaperscissors/obj/x86/Debug/rockpaperscissors.pdb
