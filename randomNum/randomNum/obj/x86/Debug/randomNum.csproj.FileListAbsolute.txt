@@ -1,0 +1,6 @@
+/home/user/Projects/randomNum/randomNum/obj/x86/Debug/randomNum.csprojAssemblyReference.cache
+/home/user/Projects/randomNum/randomNum/obj/x86/Debug/randomNum.csproj.CoreCompileInputs.cache
+/home/user/Projects/randomNum/randomNum/bin/Debug/randomNum.exe
+/home/user/Projects/randomNum/randomNum/bin/Debug/randomNum.pdb
+/home/user/Projects/randomNum/randomNum/obj/x86/Debug/randomNum.exe
+/home/user/Projects/randomNum/randomNum/obj/x86/Debug/randomNum.pdb
